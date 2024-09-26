@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 533ef0abe28782eeb1617b8aaa5a5b38b3a7e515
 # Compiled class file
 *.class
 
@@ -23,6 +26,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 =======
 *.iml
 .gradle
@@ -40,3 +44,5 @@ replay_pid*
 .cxx
 local.properties
 >>>>>>> c685c48 (Initial Commit)
+=======
+>>>>>>> 533ef0abe28782eeb1617b8aaa5a5b38b3a7e515
